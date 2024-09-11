@@ -1,0 +1,102 @@
+*{
+    background-color: #DACBB4;
+}
+body{
+    margin:0;
+    padding:0;
+}
+header{
+    text-align: center;
+    color: #DE9E48;
+    font-family: 'Courier New', Courier, monospace;
+}
+h1{
+    background-color: #563727;
+    padding:30px;
+}
+#banner{
+    width: 60%;
+    height: 400px;
+}
+#pic{
+    height: 300px;
+    width: 400px;
+}
+nav{
+    text-align: center;
+    padding:10px;
+}
+.one{
+    list-style-type: none;
+    display: inline;
+}
+.two{
+    list-style-type:square;
+}
+.three{
+    list-style-type: disc;
+}
+ul li a{
+    text-decoration: none;
+    color:#DE9E48;
+    background-color: #563727;
+    margin:10px 40px 0px 40px;
+    font-family:'Times New Roman', Times, serif;
+    font-weight: 400;
+    padding: 10px;
+    border-radius: 10px;
+}
+a:hover{
+    background-color: #3b1e10;
+}
+#first{
+    margin-top: 0px;
+    display: flex;
+    justify-content: space-around;
+    text-align: center;
+    padding: 20px;
+}
+#others{
+    margin: 10px 20px 30px 40px;
+    line-height: 30px;
+    font-size:larger;
+    color:#563727;
+}
+h2,h3{
+color:#3b1e10;
+}
+
+.images{
+    width:400px;
+    height:300px;
+    display: block;
+    border-radius: 10px;
+}
+button{
+    margin-top: 20px;
+    color: #DE9E48;
+    background-color: #563727;
+    font-size: larger;
+    font-weight:800;
+    font-family: 'Times New Roman', Times, serif;
+    border-style: none;
+    border-radius: 20%;
+    padding: 20px;
+    width: 200px;
+    text-align: center;
+    cursor: pointer;
+    border: 2px solid #DE9E48 ;
+}
+button:hover{
+    background-color:#3b1e10;
+}
+footer{
+    color: #DE9E48;
+    background-color: #563727;
+    text-align: center;
+    bottom: 0;
+    height:20px;
+    padding:20px;
+    width: 100%;
+    font-size: large;
+}
