@@ -1,0 +1,1 @@
+This is a dynamic webpage for recipes using HTML and CSS.The Main page features dishes with clear navigation, allowing users to easily select and explore recipes. It redirects to a detailed recipe page upon selection, improving user engagement and accessibility.
